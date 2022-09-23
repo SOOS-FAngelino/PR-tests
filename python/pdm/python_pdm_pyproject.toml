@@ -15,7 +15,7 @@ dependencies = [
     "requests~=2.24.0",
     "tzlocal~=2.1",
     "click~=7.1.2",
-    "indy-node<=1.12.4"
+    "indy-node<=1.13.0.dev1196"
 ]
 
 [tool.pdm]
