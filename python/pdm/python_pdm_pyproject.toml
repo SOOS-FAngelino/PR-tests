@@ -14,8 +14,7 @@ dependencies = [
     "pyModbusTCP~=0.1.8",
     "requests~=2.24.0",
     "tzlocal~=2.1",
-    "click~=7.1.2",
-    "indy-node<=1.13.0.dev1196"
+    "click~=7.1.2"
 ]
 
 [tool.pdm]
