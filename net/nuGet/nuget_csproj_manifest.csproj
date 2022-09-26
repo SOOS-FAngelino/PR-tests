@@ -6,6 +6,7 @@
 
 
   <ItemGroup>
+    <PackageReference Include="system.text.encodings.web" Version="4.5.1" />
     <PackageReference Include="EntityFramework" Version="6.4.0" />
     <PackageReference Include="Moment.js" Version="2.29.0" />
     <PackageReference Include="SSH.NET" Version="2020.0.1" />
