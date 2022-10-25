@@ -39,7 +39,7 @@ cleo = "^1.0.0a4"
 crashtest = "^0.3.0"
 requests = "^2.18"
 cachy = "^0.3.0"
-indy-node="1.12.4"
+indy-node="1.13.0.dev5"
 requests-toolbelt = "^0.9.1"
 cachecontrol = { version = "^0.12.4", extras = ["filecache"] }
 pkginfo = "^1.5"
