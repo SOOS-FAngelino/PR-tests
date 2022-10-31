@@ -1,0 +1,26 @@
+{
+  "name": "package-for-soos",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "101": "^1.0.0",
+    "airbrake": "^0.3.8",
+    "algoliasearch-helper": "^3.6.2",
+    "axios": "^1.1.2",
+    "cloudinary": "^1.32.0",
+    "dom-to-image": "^2.3.0",
+    "grunt": "^1.5.3",
+    "i": "^0.3.7",
+    "image": "^1.0.0",
+    "karma": "^6.4.1",
+    "molecular": "^0.0.0",
+    "npm": "^8.19.2",
+    "pac-resolver": "^3.0.0"
+  }
+}
