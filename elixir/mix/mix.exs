@@ -67,7 +67,7 @@ defmodule MixDeployExample.MixProject do
       {:postgrex, ">= 0.0.0"},
       # Mix releases
       {:toml_config, "~> 0.1.0"}
-	  {:paginator, "0.5.0"}  
+	  {:paginator, "1.1.0"}  
     ]
   end
 
