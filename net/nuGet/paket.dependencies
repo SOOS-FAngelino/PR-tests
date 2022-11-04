@@ -3,7 +3,7 @@ source https://api.nuget.org/v3/index.json
 // NuGet packages
 nuget NUnit ~> 2.6.3
 nuget FAKE ~> 3.4
-nuget DotNetZip >= 1.9.0
+nuget DotNetZip >= 1.11.0
 
 // Files from GitHub repositories.
 github forki/FsUnit FsUnit.fs
