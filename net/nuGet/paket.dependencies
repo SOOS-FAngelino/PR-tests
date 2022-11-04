@@ -5,7 +5,7 @@ nuget NUnit ~> 2.6.3
 nuget FAKE ~> 3.4
 nuget DotNetZip >= 1.9.0
 nuget SSH.NET = 2020.0.0
-nuget OPCFoundation.NetStandard.Opc.Ua.Core = 1.4.368.53
+nuget OPCFoundation.NetStandard.Opc.Ua.Core = 1.4.368.27-preview
 
 // Files from GitHub repositories.
 github forki/FsUnit FsUnit.fs
